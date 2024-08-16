@@ -18,7 +18,14 @@
 # F.append('Bye')
 # print(tuple(F))
 
-A = ['Behrad chossuuuu']
-B= ['Nude bedeeeeeeee']
-C = str(A + B)
-print('ye payam daram;', C)
+# A = {'A','B','C'}
+# B = {'f','G'}
+# A.update('D')
+# print(A)
+# print(len(A))
+# A.remove('B')
+# print(A)
+# A.update(B)
+# print(A)
+# C = A.difference(B)
+# print(C)
