@@ -1,1 +1,0 @@
-An step by step guide on installing ROS2-Jazzy on Windows10
